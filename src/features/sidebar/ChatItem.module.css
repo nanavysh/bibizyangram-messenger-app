@@ -1,0 +1,14 @@
+.chatItem {
+    display: flex;
+    align-items: flex-start;
+    width: 256px;
+    height: 64px;
+    background-color: #bfbfbf;
+    margin-bottom: 6px;
+    gap: 10px;
+}
+
+.chatItemInfo {
+    display: flex;
+    flex-direction: column;
+}
